@@ -1,0 +1,20 @@
+{
+  "name": "pixijs-node-template",
+  "version": "1.0.0",
+  "description": "A PixiJS + Node project template that comes with PIXI initialization code, a static web server, and gamepad/keyboard input listeners.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m00nr4bb1t/pixijs-node-template.git"
+  },
+  "author": "m00nr4bb1t",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m00nr4bb1t/pixijs-node-template/issues"
+  },
+  "homepage": "https://github.com/m00nr4bb1t/pixijs-node-template#readme",
+  "dependencies": {}
+}
